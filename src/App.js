@@ -58,7 +58,7 @@ function App() {
             <Grid container style={styles.innerContainer} spacing={2}>
               <Grid item xs={12} md={6} lg={6} style={styles.paddingDiv}>
                 <Typography variant="h5" gutterBottom style={styles.headerPadding}>
-                  React-d3-zoomable-sunburst example
+                  Users
                 </Typography>
               </Grid>
               <Grid item xs={12} md={6} lg={6} style={styles.paddingDiv}>
@@ -83,6 +83,7 @@ function App() {
           <Paper elevation={3} style={styles.body}>
             <Sunburst
                 data={data.data}
+                
                 scale="exponential"
                 tooltipContent={ <div class="sunburstTooltip" style="position:absolute; color:'black'; z-index:10; background: #e2e2e2; padding: 5px; text-align: center;" /> }
                 tooltip
