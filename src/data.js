@@ -18,37 +18,75 @@ export default {
                 },
                 {
                   "name": "b0be834f6026", "minSize": 10, "size": 3000
+                },
+                {
+                  "name": "96e6e73dc592", "minSize": 10, "size": 3000
+                },
+                {
+                  "name": "425df96de794", "minSize": 10, "size": 3000
                 }
               ]
             }
           ]
         },
         {
-          "name": "Hitesh Bechar",
+          "name": "Phil",
           "children": [
             {
               "name": "Devices",
               "children": [
                 {
-                  "name": "6a9eea3fdc09", "minSize": 10, "size": 3000
+                  "name": "a6b8cf380b1f", "minSize": 10, "size": 3000
                 },
                 {
                   "name": "103d0a0f2448", "minSize": 10, "size": 3000
                 },
+              ]
+            },
+          ]
+        },
+        {
+        "name": "Gary F",
+        "children": [
+          {
+            "name": "Devices",
+            "children": [
+              {
+                "name": "9e0bc2fddb9e", "minSize": 10, "size": 3000
+              },
+            ]
+          }
+        ]
+        },
+        {
+          "name": "Rajat Menon",
+          "children": [
+            {
+              "name": "Devices",
+              "children": [
                 {
-                  "name": "2eec1cf9681c", "minSize": 10, "size": 3000
+                  "name": "4889e71e62b6", "minSize": 10, "size": 3000
                 },
                 {
-                  "name": "ee5170061046", "minSize": 10, "size": 3000
-                },
+                  "name": "Devices",
+                  "children": [
+                    {
+                      "name": "ce47413cf1fa","minSize": 10, "size": 3000
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Hitesh Meraki",
+              "children": [
                 {
-                  "name": "4aa81ff983bc", "minSize": 10, "size": 3000
-                },
-                {
-                  "name": "0e847d8aa253", "minSize": 10, "size": 3000
-                },
-                {
-                  "name": "3ec5534e4a39", "minSize": 10, "size": 3000
+                  "name": "Devices",
+                  "children": [
+                    {
+                      "name": "6a9d29f695bd", "minSize": 10, "size": 3000
+                    }
+                  ]
                 }
               ]
             }
