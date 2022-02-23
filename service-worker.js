@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/react-d3-zoomable-sunburst/precache-manifest.5a17c626952e79ca3b87b6ae3d5e390c.js"
+  "/react-d3-zoomable-sunburst/precache-manifest.3cefb86f4603211ceeb102551ff0463d.js"
 );
 
 self.addEventListener('message', (event) => {
