@@ -77,16 +77,16 @@ export default {
                 }
               ]
             },
+          ]
+        },
+        {
+          "name": "Hitesh Meraki",
+          "children": [
             {
-              "name": "Hitesh Meraki",
+              "name": "Devices",
               "children": [
                 {
-                  "name": "Devices",
-                  "children": [
-                    {
-                      "name": "6a9d29f695bd", "minSize": 10, "size": 3000
-                    }
-                  ]
+                  "name": "6a9d29f695bd", "minSize": 10, "size": 3000
                 }
               ]
             }
