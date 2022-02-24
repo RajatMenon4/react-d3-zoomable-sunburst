@@ -68,12 +68,7 @@ export default {
                   "name": "4889e71e62b6", "minSize": 10, "size": 3000
                 },
                 {
-                  "name": "Devices",
-                  "children": [
-                    {
-                      "name": "ce47413cf1fa","minSize": 10, "size": 3000
-                    }
-                  ]
+                  "name": "ce47413cf1fa","minSize": 10, "size": 3000
                 }
               ]
             },
