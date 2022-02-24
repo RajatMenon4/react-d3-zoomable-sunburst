@@ -69,7 +69,7 @@ export default {
                 },
                 {
                   "name": "ce47413cf1fa","minSize": 10, "size": 3000
-                }
+                },
               ]
             },
           ]
