@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "226718907cb2480f97ee4f4dcf15510e",
+    "revision": "ba1a6c1d2a6e696fb29eebfc17519ebd",
     "url": "/react-d3-zoomable-sunburst/index.html"
   },
   {
-    "revision": "98147cf6cc29809cb463",
+    "revision": "3416e2f321cb55d9ef1c",
     "url": "/react-d3-zoomable-sunburst/static/css/main.523f09c5.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-d3-zoomable-sunburst/static/js/2.df20b847.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "98147cf6cc29809cb463",
-    "url": "/react-d3-zoomable-sunburst/static/js/main.a42a6704.chunk.js"
+    "revision": "3416e2f321cb55d9ef1c",
+    "url": "/react-d3-zoomable-sunburst/static/js/main.acb68281.chunk.js"
   },
   {
     "revision": "ecdbb12a2e38b0ce99b2",
